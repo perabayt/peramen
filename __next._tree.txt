@@ -1,0 +1,10 @@
+:HL["/peramen/_next/static/chunks/3y5vvzxfafd3f.css","style"]
+:HL["/peramen/_next/static/chunks/39jzhb4thbn0m.css","style"]
+:HC["/",""]
+:HL["/peramen/_next/static/chunks/0dwmir12x_mp-.css","style"]
+:HL["/peramen/urun/p017-gunluk-nemlendirici-75-ml.webp","image"]
+:HL["/peramen/urun/p006-no-1-sakal-yagi-30-ml.webp","image"]
+:HL["/peramen/urun/p042-aktif-komurlu-kalip-sabun-120-g.webp","image"]
+2:[["children",{"s":"__PAGE__","h":128}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"b":"X2nnrhFJl_LS5R-nXwmJF","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

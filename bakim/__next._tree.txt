@@ -1,0 +1,6 @@
+:HL["/peramen/_next/static/chunks/3y5vvzxfafd3f.css","style"]
+:HL["/peramen/_next/static/chunks/39jzhb4thbn0m.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"bakim","h":64,"c":"$Q2"}]]
+0:{"b":"X2nnrhFJl_LS5R-nXwmJF","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

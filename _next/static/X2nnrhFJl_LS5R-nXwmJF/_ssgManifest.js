@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fhesap\u002Fsiparisler\u002F[no]","\u002Fkategori\u002F[slug]","\u002Fmarka\u002F[slug]","\u002Fpanel\u002Fsiparisler\u002F[no]","\u002Fpanel\u002Furunler\u002F[id]","\u002Frehber\u002F[slug]","\u002Fsiparis\u002F[no]","\u002Fsistem\u002Fe-postalar\u002F[sablon]","\u002Furun\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
